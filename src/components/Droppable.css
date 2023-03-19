@@ -1,0 +1,26 @@
+.droppable {
+	min-width: 50px;
+	padding: 20px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+}
+
+.droppable2 {
+	background-color: grey;
+	min-width: 50px;
+	padding: 20px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+	height: 331px;
+}
+
+.droppable3 {
+	background-color: yellow;
+	min-width: 50px; padding : 20px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+	padding: 20px 10px;
+}

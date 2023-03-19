@@ -1,0 +1,27 @@
+.staticitem {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  width: 50px;
+  height: 30px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  user-select: none;
+  background-color: white;
+}
+
+.staticitem2 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  width: 90px;
+  height: 30px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  user-select: none;
+  background-color: white;
+}

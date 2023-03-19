@@ -1,0 +1,17 @@
+.startlist {
+	min-width: 50px;
+	padding: 20px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+	height: 335px;
+}
+
+.startlist2 {
+	min-width: 90px;
+	padding: 20px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+	margin-top: 0px;	
+}
