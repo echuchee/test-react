@@ -1,4 +1,6 @@
 .droppable {
+		background-color: #feffbc;
+	
 	min-width: 50px;
 	padding: 20px 10px;
 	border: 1px solid black;
@@ -7,7 +9,7 @@
 }
 
 .droppable2 {
-	background-color: grey;
+	background-color: #c3c3c3;
 	min-width: 50px;
 	padding: 20px 10px;
 	border: 1px solid black;
@@ -17,7 +19,7 @@
 }
 
 .droppable3 {
-	background-color: yellow;
+	background-color: #feffbc;
 	min-width: 50px; padding : 20px 10px;
 	border: 1px solid black;
 	border-radius: 5px;

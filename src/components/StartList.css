@@ -5,6 +5,7 @@
 	border-radius: 5px;
 	list-style-type: none;
 	height: 335px;
+	background-color: #b7c5ff;
 }
 
 .startlist2 {
@@ -13,5 +14,5 @@
 	border: 1px solid black;
 	border-radius: 5px;
 	list-style-type: none;
-	margin-top: 0px;	
+	margin-top: 0px;
 }

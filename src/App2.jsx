@@ -69,7 +69,7 @@ function App2(params) {
 
 	function showCheat() {
 		let tempElement = document.getElementById(order + "-wordlist");
-		if (tempElement.style.visibility === "hidden") {
+		if (tempElement.style.visibility === "hidden" || tempElement.style.visibility === "") {
 			tempElement.style.visibility = "visible";
 		} else {
 			tempElement.style.visibility = "hidden";
