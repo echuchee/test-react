@@ -10,7 +10,6 @@ export function splitWord(word) {
 	return [word.substring(0, 3), word.substring(3, 6), word.substring(6, 9)]
 }
 
-
 /* Randomize array in-place using Durstenfeld shuffle algorithm */
 export function shuffleArray(array) {
 	for (var i = array.length - 1; i > 0; i--) {
@@ -48,6 +47,7 @@ export function checkAllItems(itemGroups, answers, order) {
 const allWords = require('an-array-of-english-words');
 let l9words = allWords.filter(w => w.length === 9);
 
+console.log("LIST SIZE: " + l9words.length);
 export function grabRandomWords(number, answers, bank, fullWords, setWords, order) {
 	let poppedWord = "";
 	const size = l9words.length;
